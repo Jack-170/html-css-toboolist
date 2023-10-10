@@ -80,5 +80,22 @@ h1{
     color: white;
     background-color: rgba(215, 132, 37, 0.842);
     
+}
+
+.website{
+    display: inline-block;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgba(231, 76, 220, 0.842);
+
+}
+.sales{
+    display: inline-block;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgba(62, 124, 8, 0.842);
+
 
 }
